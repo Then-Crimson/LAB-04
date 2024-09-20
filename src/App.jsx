@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <h1>Pregunta 2</h1>
+    <h1>Tu numero aleatorio es:</h1>
       <Button/>
     </>
   )
