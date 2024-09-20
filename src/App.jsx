@@ -1,11 +1,11 @@
 import './App.css'
-import MyComponent from './components/RandomComponent'
+import CompWithProps from './components/CompWithProps'
 
 function App() {
 
   return (
     <>
-      <MyComponent/>
+      <CompWithProps/>
     </>
   )
 }
